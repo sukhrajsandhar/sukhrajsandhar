@@ -40,9 +40,4 @@ I like working on things where the implementation details actually matter, wheth
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-![Sukhraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukhrajsandhar&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhrajsandhar&layout=compact&theme=tokyonight&hide_border=true)
